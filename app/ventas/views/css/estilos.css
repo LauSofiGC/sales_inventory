@@ -1,0 +1,47 @@
+.menu{
+    background-color: #90EE90;
+}
+.chulo{
+    color:#28a745;
+    font-size: 20px;
+}
+.universidad{
+    padding-bottom: 20px;
+}
+.inicio{
+    background: #333333;
+}
+.trashRed{
+    color: #ff0000;
+    font-size: 21px;
+}
+.trashGray{
+    color: #999999;
+    font-size: 21px;
+}
+.edit1{
+    color: #00cc66;
+    font-size:21px;
+}
+.edit2{
+    color: #0066cc;
+    font-size:21px;
+}
+.programList{
+    color:#00cc00;
+    font-size:21px;
+}
+.eliminarEst{
+    color:#ff0000;
+    font-size:21px;
+}
+
+.aceptarDev{
+    color: blue;
+    font-size:21px;
+}
+
+.rechazarDev{
+    color: red;
+    font-size:21px;
+}
